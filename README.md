@@ -137,11 +137,3 @@ Contains:
 - House features
 - Historical sale prices
 
----
-
-# ▶️ Run the Project
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
